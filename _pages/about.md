@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 ## Updates
-=============================
+======
 1. 2023-8-5: New academic page!
