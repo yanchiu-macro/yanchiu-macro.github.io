@@ -5,11 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
+
 # Working Papers
 
-1. How Important is Belief Heterogenity of Households?  \
-Latest draft August 2023  (*Draft Available Upon Request*)
+1. "How Important is Belief Heterogenity of Households?" (August 2023)<br>
+    (*Draft Available Upon Request*)
 
 # Publication
 
 
+# Selected Work in Progress
