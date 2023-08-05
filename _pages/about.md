@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-home page
+## Updates
+=============================
+1. 2023-8-5: New academic page!
