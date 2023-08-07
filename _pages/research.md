@@ -8,7 +8,7 @@ author_profile: true
 
 # Working Papers
 
-1. "How Important is Belief Heterogenity of Households?" (August 2023)<br>
+1. "How Important is Belief Heterogeneity of Households?" (August 2023)<br>
     (*Draft Available Upon Request*)
 
 # Publication
