@@ -11,8 +11,10 @@ Topics: Consumption, Investment, Economic Growth, Business Cycle, Monetary Polic
 
 Update
 ======
-Welcome to my ECON311 course page! This page will be updated throughout the quarter. Please check back regularly for additional materials.
 
+- 2023-09-25: Welcome to my ECON311 course page! This page will be updated throughout the quarter. Please check back regularly for additional materials.
+
+Information
 ======
 
 - Name: Kwok Yan Chiu (I usually go by "Yan")
