@@ -7,6 +7,8 @@ venue: "Northwestern University, Economics Department"
 date: 2023-09-25
 ---
 
+Topics: Consumption, Investment, Economic Growth, Business Cycle, Monetary Policy, Fiscal Policy, International Macroeconomics 
+
 Welcome to my ECON311 course page! This page will be updated throughout the quarter. Please check back regularly for additional materials.
 
 Information
