@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: /ECON311_fall_2023/Csonumption/
 author_profile: true
 ---
 
