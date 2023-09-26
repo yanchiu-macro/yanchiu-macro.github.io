@@ -27,4 +27,4 @@ Information
 Discussion
 ======
 
-1. [Consumption](https://yanchiu-macro.github.io/ECON311_fall_2023/consumption.md)
+1. [Consumption](https://yanchiu-macro.github.io/ECON311_fall_2023/consumption/)
