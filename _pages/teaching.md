@@ -14,8 +14,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Active
-
 ### Fall 2023
 
 [ECON311 Intermediate Macroeconomics](https://yanchiu-macro.github.io/teaching/ECON311_fall_2023/main.md)
