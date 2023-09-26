@@ -1,5 +1,5 @@
 ---
-title: "ECON311 Intermediate Macroeconomics Fall 2023"
+title: "ECON311 Intermediate Macroeconomics (Fall 2023)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ECON311_fall_2023
